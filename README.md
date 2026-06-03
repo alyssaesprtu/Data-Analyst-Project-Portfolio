@@ -2,4 +2,4 @@
 
 ## 1. E-commerce Sales and Customer Analysis
 *Tools: Excel, SQL, Power BI*
-Link: 
+Link: https://github.com/alyssaesprtu/E-Commerce-Sales-and-Customer-Analysis
