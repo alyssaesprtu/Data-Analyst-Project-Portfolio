@@ -4,8 +4,6 @@ Hi, I'm **Alyssa**, an aspiring **Data Analyst** who enjoys turning raw, messy d
 
 Using **SQL, Python, Excel, and Power BI**, I analyze data, uncover trends, and create dashboards that support data-driven decision-making. My focus is not just on finding answers in the data, but on understanding the business story behind the numbers.
 
-This portfolio showcases projects that demonstrate my skills in data cleaning, exploratory data analysis, data visualization, and business intelligence.
-
 ## 📂 Projects
 
 ### 1. E-Commerce Sales and Customer Analysis
